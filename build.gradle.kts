@@ -31,8 +31,8 @@ subprojects {
 
     aliucord {
         author("DISCORD USERNAME", 123456789L)
-        updateUrl.set("https://raw.githubusercontent.com/USERNAME/REPONAME/builds/updater.json")
-        buildUrl.set("https://raw.githubusercontent.com/USERNAME/REPONAME/builds/%s.zip")
+        updateUrl.set("https://raw.githubusercontent.com/NoobJsPerson/aliucord-plugins/builds/updater.json")
+        buildUrl.set("https://raw.githubusercontent.com/NoobJsPerson/aliucord-plugins/builds/%s.zip")
     }
 
     android {
