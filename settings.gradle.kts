@@ -1,5 +1,7 @@
 include(":MyFirstPlugin")
 
+include(":NumbersToWords")
+
 // include(":CatApi")
 // project(":CatApi").projectDir = File("./ExamplePlugins/CatApi")
 
